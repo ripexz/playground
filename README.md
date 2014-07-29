@@ -5,5 +5,5 @@ Testing stuff
 
 ### tasklist in readme
 - [ ] wan
-- [ ] two
+- [x] two
 - [ ] three
