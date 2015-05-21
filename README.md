@@ -7,3 +7,5 @@ Testing stuff
 - [ ] wan
 - [x] two
 - [ ] three
+
+![http://i.imgur.com/kleJ2jJ.gif](http://i.imgur.com/kleJ2jJ.gif)
